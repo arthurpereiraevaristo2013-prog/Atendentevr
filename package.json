@@ -1,0 +1,12 @@
+{
+  "name": "vr-atendente",
+  "version": "1.0.0",
+  "description": "Simulador VR de atendimento com hand tracking real",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
